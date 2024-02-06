@@ -1,3 +1,24 @@
+<div id="header" align="center">
+  <h2>
+  Hi! This is Lika
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h2>
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100px"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/li-jia-teng-2561221a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+</div>
+
+## :woman_technologist: About Me
+I'm a passionate software engineer with a strong enthusiasm for coding and web development.
+
+- Currently working on exciting web projects to expand my expertise.
+- Always learning and seeking knowledge through coding challenges and tech articles.
+- Enjoying trying new things!
+
+Feel free to explore my [ClarityCall](https://claritycall.co/) and feel free to connect me via LinkedIn!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/li-jia-teng-2561221a3) 
